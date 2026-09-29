@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Uninstall Tool",
+        "description": "Uninstall Tool 是 CrystalIDEA 开发的一款 Windows 专业卸载工具，主要用于比系统自带的“应用和功能”更彻底地删除软件。",
+        "version": "1.0.4.31",
+        "category": "垃圾清理",
+        "size": "20 MB",
+        "icon": "./icon/Uninstall Tool.ico",
+        "download": "https://archive.org/download/uninstall-tool-portable-setup_202609/UninstallToolPortable_Setup.zip"
+    }
+]
