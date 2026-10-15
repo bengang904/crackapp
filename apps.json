@@ -1,11 +1,20 @@
 [
     {
         "name": "Uninstall Tool",
-        "description": "Uninstall Tool 是 CrystalIDEA 开发的一款 Windows 专业卸载工具，主要用于比系统自带的“应用和功能”更彻底地删除软件。",
+        "description": "《Uninstall Tool》 是 CrystalIDEA 开发的一款 Windows 专业卸载工具，主要用于比系统自带的“应用和功能”更彻底地删除软件。",
         "version": "1.0.4.31",
         "category": "垃圾清理",
-        "size": "20 MB",
+        "size": "19.6 MB",
         "icon": "./icon/Uninstall Tool.ico",
         "download": "https://archive.org/download/uninstall-tool-portable-setup_202609/UninstallToolPortable_Setup.zip"
+    },
+     {
+        "name": "VMware Workstation Pro",
+        "description": "《VMware Workstation Pro》是一款运行在 Windows 或 Linux 电脑上的虚拟机软件，可以在当前系统里创建并运行其他操作系统",
+        "version": "26.0.1",
+        "category": "虚拟机",
+        "size": "244 MB",
+        "icon": "./icon/VMware Workstation Prol.ico",
+        "download": "https://archive.org/download/vmware-workstation-full-26-h-1u-1-25688693_202610/VMware-Workstation-Full-26H1u1-25688693.zip"
     }
 ]
